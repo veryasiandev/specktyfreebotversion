@@ -1,0 +1,6 @@
+{
+  "token": "ADD TOKEN HERE",
+  "prefix": ">",
+  "mongoPath": "mongo path here",
+  "redisPath": "redis path here"
+}
